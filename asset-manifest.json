@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://etnbrc.github.io/central/static/css/main.073c9b0a.css",
-    "main.js": "https://etnbrc.github.io/central/static/js/main.acef6091.js",
+    "main.css": "https://etnbrc.github.io/central/static/css/main.df0a935c.css",
+    "main.js": "https://etnbrc.github.io/central/static/js/main.b4022aab.js",
     "static/js/787.180c4acc.chunk.js": "https://etnbrc.github.io/central/static/js/787.180c4acc.chunk.js",
-    "static/media/logo.svg": "https://etnbrc.github.io/central/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/avatar.png": "https://etnbrc.github.io/central/static/media/avatar.1335c973cf659ccf2709.png",
     "index.html": "https://etnbrc.github.io/central/index.html",
-    "main.073c9b0a.css.map": "https://etnbrc.github.io/central/static/css/main.073c9b0a.css.map",
-    "main.acef6091.js.map": "https://etnbrc.github.io/central/static/js/main.acef6091.js.map",
+    "main.df0a935c.css.map": "https://etnbrc.github.io/central/static/css/main.df0a935c.css.map",
+    "main.b4022aab.js.map": "https://etnbrc.github.io/central/static/js/main.b4022aab.js.map",
     "787.180c4acc.chunk.js.map": "https://etnbrc.github.io/central/static/js/787.180c4acc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.acef6091.js"
+    "static/css/main.df0a935c.css",
+    "static/js/main.b4022aab.js"
   ]
 }
